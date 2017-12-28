@@ -5,9 +5,8 @@ public class PersonVO {
 	private String addr;
 	private String tel;
 	private int no;
-	private int age;
 	private String gender;
-	
+	private int age;
 	
 	public String getGender() {
 		return gender;
